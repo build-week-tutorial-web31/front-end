@@ -19,7 +19,6 @@ function App() {
       id: Date.now(),
       name: person.name,
       email: person.email,
-      role: person.role
     }
     setPeople([...people, newPerson])
   }
