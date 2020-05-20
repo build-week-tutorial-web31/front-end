@@ -10,7 +10,7 @@ function App() {
       id: 1,
       name: "Billy",
       email: "billy.bob@gmail.com",
-      role: "mechanical engineer"
+      role: "software engineer"
     }
   ]);
 
