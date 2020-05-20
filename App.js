@@ -16,10 +16,10 @@ function App() {
 
   const addNewPerson = person => {
     const newPerson = {
-      id: Date.now(),
-      name: person.name,
+
+      name: june.name,
       email: person.email,
-      role: person.role
+      role: person.info
     }
     setPeople([...people, newPerson])
   }
